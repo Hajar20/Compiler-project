@@ -1,0 +1,11 @@
+Debut ; 
+Declaration ; 
+Variable v : int ; 
+Lire ( m ) ; 
+Ecrire ( k ) ; 
+v := -8 ; 
+Si ( v >= -8 ) alors 
+Finsi ; 
+Fin ; 
+
+ 
